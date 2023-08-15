@@ -7,7 +7,6 @@ import FamilyTree.Tree.view.ConsoleUI;
 import FamilyTree.Tree.view.View;
 
 
-
 public class Main {
 
 
